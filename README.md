@@ -3,7 +3,7 @@
 
 ---
 
-## 📁 Estructura de Archivos
+## Estructura de Archivos
 
 ```
 Proyecto_AgroPeru/
@@ -39,7 +39,7 @@ Proyecto_AgroPeru/
 
 ---
 
-## 📞 Datos de Contacto Integrados
+## Datos de Contacto Integrados
 
 - **Teléfonos:** +51 975 068 425 / +51 975 382 948
 - **Correo:** imporiap@gmail.com
@@ -50,7 +50,7 @@ Proyecto_AgroPeru/
 
 ---
 
-## 🗂️ Secciones de la Landing Page
+## Secciones de la Landing Page
 
 1. **Hero** — Tagline, CTA principal, estadísticas animadas
 2. **Social Proof** — Banderas de Perú/Bolivia, credenciales
@@ -64,7 +64,7 @@ Proyecto_AgroPeru/
 
 ---
 
-## ⚡ Funcionalidades JavaScript
+## Funcionalidades JavaScript
 
 - Sistema de **50 partículas** flotantes
 - **Navbar sticky** con blur al hacer scroll
@@ -96,14 +96,14 @@ Simplemente reemplaza los archivos en la carpeta `/images/` manteniendo los mism
 
 ---
 
-## 🚀 Cómo abrir la web
+## Cómo abrir la web
 
 1. Abre el archivo `index.html` directamente en el navegador (doble clic)
 2. Para producción, sube toda la carpeta a tu hosting o servidor
 
 ---
 
-## 📌 Notas Técnicas
+## Notas Técnicas
 
 - No requiere instalación ni dependencias externas (solo CDN de Google Fonts y Font Awesome)
 - Compatible con Chrome, Firefox, Safari, Edge (últimas versiones)
