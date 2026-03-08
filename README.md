@@ -25,7 +25,7 @@ Proyecto_AgroPeru/
 
 ---
 
-## 🎨 Paleta de Colores
+## Paleta de Colores
 
 | Color       | HEX       | Uso                                       |
 |-------------|-----------|-------------------------------------------|
@@ -79,7 +79,7 @@ Proyecto_AgroPeru/
 
 ---
 
-## 🛠️ Personalización
+## Personalización
 
 ### Cambiar datos de contacto
 Busca en `index.html` los siguientes textos y reemplaza:
